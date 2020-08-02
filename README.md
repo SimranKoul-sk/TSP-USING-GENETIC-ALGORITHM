@@ -6,8 +6,9 @@ starting city. TSP has a wide range of applications in manyareas..
 Traveling salesman problem(TSP) is a classiccombinatorial optimization problem. The goal is to
 find theshortest tour that visits each city in a given list exactly once andthen returns to the starting
 city.
+
 ABOUT METHODOLOGY
-───────────────────────────────────────
+
 GREEDY
 A greedy algorithm is an algorithmic paradigm that follows the problem solving heuristic of
 making the locally optimal choice at each stage with the hope of finding a global optimum. In
